@@ -202,7 +202,7 @@ class BuildRecipePage extends React.Component {
                         <button
                           className='one-more-token-button'
                           onClick={this._addInput}
-                        > + ADD ANOTHER INGREDIENT </button>
+                        > + ADD INGREDIENT </button>
                       </div>
                     </div>
                   </div>
